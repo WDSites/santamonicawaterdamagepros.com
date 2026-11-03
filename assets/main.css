@@ -225,7 +225,7 @@ main ul.plain li,main ol.plain li{margin-bottom:8px;line-height:1.65}
 .postmeta{font-size:13.5px;color:var(--gray);margin:12px 0 4px;font-weight:600}
 /* footer */
 .site-footer{background:#fff;border-top:1px solid var(--line);padding:46px 0 38px;font-size:14.5px}
-.site-footer .wrap{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:32px}
+.site-footer .wrap{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr 1fr;gap:32px}
 .foot-h{color:var(--ink);font-size:16px;margin:0 0 12px}
 .site-footer ul{list-style:none}
 .site-footer li{margin-bottom:7px}
